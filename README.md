@@ -7,7 +7,7 @@ Que contenga una entidad Jugador con los atributos:
 
 ### En el DAO agregar:
 - Un método para crear un nuevo jugador.
-- Una consulta para obtener todos los jugaadores.
+- Una consulta para obtener todos los jugadores.
 - Una consulta para obtener un jugador por nombre.
 
 ---
