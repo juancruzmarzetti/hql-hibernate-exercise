@@ -1,0 +1,8 @@
+[2024-03-17 21:19:37] [ERROR] [GlobalExceptionHandler:16] Required URI template variable 'name' for method parameter type String is not present
+[2024-03-17 21:20:10] [ERROR] [GlobalExceptionHandler:16] Required URI template variable 'name' for method parameter type String is not present
+[2024-03-17 21:20:36] [ERROR] [GlobalExceptionHandler:16] Required URI template variable 'name' for method parameter type String is not present
+[2024-03-17 21:20:38] [ERROR] [GlobalExceptionHandler:16] Required URI template variable 'name' for method parameter type String is not present
+[2024-03-17 21:22:09] [ERROR] [GlobalExceptionHandler:16] Cannot invoke "java.util.Set.isEmpty()" because "jugadores" is null
+[2024-03-17 21:22:57] [ERROR] [GlobalExceptionHandler:16] Cannot invoke "java.util.Set.isEmpty()" because "jugadores" is null
+[2024-03-17 21:22:58] [ERROR] [GlobalExceptionHandler:16] Cannot invoke "java.util.Set.isEmpty()" because "jugadores" is null
+[2024-03-17 21:22:59] [ERROR] [GlobalExceptionHandler:16] Cannot invoke "java.util.Set.isEmpty()" because "jugadores" is null
